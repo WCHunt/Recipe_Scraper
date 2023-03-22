@@ -5,11 +5,12 @@ This script allows you to scrape recipe data from the Allrecipes website, includ
 
 ## Installation
 Installation
-To use this script, you will need to have Python 3 installed, as well as several Python packages. You can install the necessary packages by running the following command: pip install recipe-scrapers beautifulsoup4 pandas parse-ingredients requests
+To use this script, you will need to have Python 3 installed, as well as several Python packages. You can install the necessary packages by running the following 
+
+command: pip install recipe-scrapers beautifulsoup4 pandas parse-ingredients requests
 
 ## Usage
-To use the script, simply run the recipe_scraper.py file from the 
-command line: python recipe_scraper.py
+To use the script, simply run the recipe_scraper.py file from the command line: python recipe_scraper.py.
 The script will automatically scrape recipe data from the Allrecipes website and save it to a CSV file.
 
 ## Configuration
